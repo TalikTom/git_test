@@ -1,1 +1,3 @@
 git testing
+
+trying to figure out git once and for all
